@@ -1,0 +1,2 @@
+wire signed [width-1:0] weight0 [0:input_number-1]= '{4,-47,68,53,-88,80,-9,7,-20,-3};
+

@@ -1,0 +1,11 @@
+wire signed [width-1:0] bias0 = '{4};
+wire signed [width-1:0] bias1 = '{-47};
+wire signed [width-1:0] bias2 = '{68};
+wire signed [width-1:0] bias3 = '{53};
+wire signed [width-1:0] bias4 = '{-88};
+wire signed [width-1:0] bias5 = '{80};
+wire signed [width-1:0] bias6 = '{-9};
+wire signed [width-1:0] bias7 = '{7};
+wire signed [width-1:0] bias8 = '{-20};
+wire signed [width-1:0] bias9 = '{-3};
+
